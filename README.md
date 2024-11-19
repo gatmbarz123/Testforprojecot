@@ -182,24 +182,8 @@ Yolo5:
 
 
 
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-[cicd]: https://github.com/gatmbarz123/Terrafom-polybot_project/blob/main/Screenshot%20from%202024-11-19%2011-09-03.png
-[botaws2]: https://github.com/gatmbarz123/Terrafom-polybot_project/blob/main/Screenshot%20from%202024-10-22%2019-26-49.png
+[cicd]: https://github.com/gatmbarz123/Terrafom-polybot_project/blob/main/Photos/Screenshot%20from%202024-11-19%2011-09-03.png
+[botaws2]: https://github.com/gatmbarz123/Terrafom-polybot_project/blob/main/Photos/Screenshot%20from%202024-10-22%2019-26-49.png
     
 
          
